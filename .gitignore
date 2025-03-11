@@ -1,0 +1,8 @@
+cmd/updater-client
+cmd/updater-fileserver
+internal/client
+internal/fileserver
+internal/client-clang
+test/
+*.exe
+*.sh
